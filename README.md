@@ -46,7 +46,7 @@ This image shows that osTicket has been installed on the virtual network.
 <img src="https://i.imgur.com/NQEHIKG.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+I logged into osTicket as Admin. This allowed me to manage help topics, which basically includes potiental ticket scenarios. Properties such as, priority of the ticket, and also which department the ticket is sent to when created can be changed if necessary. 
 </p>
 <br />
 
@@ -54,6 +54,6 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 <img src="https://i.imgur.com/gGCSSWJ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+I logged into osTicket as Admin. This allowed me to manage help topics, which basically includes potiental ticket scenarios. Properties such as, priority of the ticket, and also which department the ticket is sent to when created can be changed if necessary.
 </p>
 <br />
