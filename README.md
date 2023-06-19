@@ -46,7 +46,7 @@ This image shows that osTicket has been installed on the virtual network.
 <img src="https://i.imgur.com/NQEHIKG.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-I logged into osTicket as Admin. This allowed me to manage help topics, which basically includes potiental ticket scenarios. Properties such as, priority of the ticket, and also which department the ticket is sent to when created can be changed if necessary. 
+I logged into osTicket as Administrator "Jane Doe". As a admin I am able to add agents to osTicket, in addition I am able to add agents to a specific department or team. It also shows the last time each agent was logged in. 
 </p>
 <br />
 
@@ -54,6 +54,6 @@ I logged into osTicket as Admin. This allowed me to manage help topics, which ba
 <img src="https://i.imgur.com/gGCSSWJ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-I logged into osTicket as Admin. This allowed me to manage help topics, which basically includes potiental ticket scenarios. Properties such as, priority of the ticket, and also which department the ticket is sent to when created can be changed if necessary.
+While logged into osTicket as Admin, I managed help topics, which basically includes potiental ticket scenarios. Properties such as, priority of the ticket, and also which department the ticket is sent to when created can be changed if necessary.
 </p>
 <br />
