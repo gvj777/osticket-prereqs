@@ -19,10 +19,10 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <h2>List of Prerequisites</h2>
 
 - Created a virtual machine on Microsoft Azure
-- Item 2
-- Item 3
-- Item 4
-- Item 5
+- Installed osTicket on vitural network
+- Logged into osTicket as a Administrator 
+- Added agents to osTicket as Admin
+- Managed tickets as Admin
 
 <h2>Installation Steps</h2>
 
